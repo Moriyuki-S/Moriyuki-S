@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=Hello%20World!&fontSize=70&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=Stay%20Hungry,%20Stay%20Foolish&fontSize=60&fontColor=ffffff" width="100%"/>
 </div>
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/Moriyuki-S">Moriyuki SUZUKI</a> 👋</h1>
@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=Hi,+I'm+Moriyuki-SUZUKI!+%F0%9F%91%8B;Kyoto+Univ.+Graduate+Student+%F0%9F%8E%93;Control+Lab+%2F+Robot+Control+%F0%9F%A6%BE;Interested+in+AI+x+Robotics+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=550&lines=Hi,+I'm+Moriyuki-SUZUKI!+%F0%9F%91%8B;Kyoto+Univ.+Graduate+Student+%F0%9F%8E%93;Control+Lab+%2F+Robot+Control+%F0%9F%A6%BE;Focusing+on+Data+Science+%26+AI+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </div>
 
