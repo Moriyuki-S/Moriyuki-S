@@ -62,7 +62,7 @@
 
 ## 📩 Contact
 <p align="left">
-  <a href="https://www.linkedin.com/in/あなたのID/">
+  <a href="https://www.linkedin.com/in/moriyuki-suzuki/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
