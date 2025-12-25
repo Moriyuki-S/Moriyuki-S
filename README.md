@@ -26,9 +26,7 @@
 
 <h3 align="left">Languages</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,matlab" />
-  </a>
+<div style="display: flex; align-items: center;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /></div>
 </p>
 
 <h3 align="left">Frameworks & Libraries</h3>
