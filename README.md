@@ -26,7 +26,11 @@
 
 <h3 align="left">Languages</h3>
 <p align="left">
-<div style="display: flex; align-items: center;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /></div>
+<div style="display: flex; align-items: center;">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=go" />
+  </div>
 </p>
 
 <h3 align="left">Frameworks & Libraries</h3>
