@@ -17,9 +17,6 @@
 <div align="center">
   Currently researching <b>Robot Control</b> at Control Laboratory.<br>
   Passionate about integrating <b>Control Theory</b> and <b>Modern AI</b>.<br><br>
-  <a href="https://portfolio.moriyuki-suzuki.workers.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2ECC71?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
 </div>
 
 ## 🛠 Tech Stack
